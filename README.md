@@ -1,4 +1,4 @@
 hellerve.github.io
 ==================
 
-Redirect to my blog
+Just a redirect to my blog.
